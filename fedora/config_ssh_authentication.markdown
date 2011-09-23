@@ -10,7 +10,6 @@
 
 启用或增加配置参数
 ```java
-
 //端口
 Port 22
 
@@ -34,7 +33,6 @@ PasswordAuthentication no
 
 //是否允许空密码
 PermitEmptyPasswords no
-
 ```
 
 #### 3.公钥设置 ####
