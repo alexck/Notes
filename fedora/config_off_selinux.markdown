@@ -14,7 +14,8 @@ SELINUXTYPE
 	2. strict - 全SELinux的保护
 SELINUXTYPE=targeted (默认)
 ```
-关闭方法
+
+### 关闭方法 ###
 ```java
 	# vim /etc/selinux/config
 	SELINUX=disabled
