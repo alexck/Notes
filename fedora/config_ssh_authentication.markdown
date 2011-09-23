@@ -37,5 +37,6 @@ PermitEmptyPasswords no
 ```
 
 #### 3.公钥设置 ####
-$ mv ~/.ssh/id_rsa.pub ~/.ssh/authorized_keys
-$ chmod 600 ~/.ssh/authorized_keys
+
+	$ mv ~/.ssh/id_rsa.pub ~/.ssh/authorized_keys
+	$ chmod 600 ~/.ssh/authorized_keys
